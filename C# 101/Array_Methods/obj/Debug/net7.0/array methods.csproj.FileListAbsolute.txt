@@ -1,0 +1,14 @@
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.AssemblyInfoInputs.cache
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.AssemblyInfo.cs
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.csproj.CoreCompileInputs.cache
+C:\Users\fırkan\Desktop\Pratikler\array methods\bin\Debug\net7.0\array methods.exe
+C:\Users\fırkan\Desktop\Pratikler\array methods\bin\Debug\net7.0\array methods.deps.json
+C:\Users\fırkan\Desktop\Pratikler\array methods\bin\Debug\net7.0\array methods.runtimeconfig.json
+C:\Users\fırkan\Desktop\Pratikler\array methods\bin\Debug\net7.0\array methods.dll
+C:\Users\fırkan\Desktop\Pratikler\array methods\bin\Debug\net7.0\array methods.pdb
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.dll
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\refint\array methods.dll
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.pdb
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\array methods.genruntimeconfig.cache
+C:\Users\fırkan\Desktop\Pratikler\array methods\obj\Debug\net7.0\ref\array methods.dll
