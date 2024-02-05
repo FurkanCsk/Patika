@@ -1,0 +1,14 @@
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.AssemblyInfoInputs.cache
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.AssemblyInfo.cs
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.csproj.CoreCompileInputs.cache
+D:\Pratikler\Extension - Recursive Methods\bin\Debug\net7.0\Extension - Recursive Methods.exe
+D:\Pratikler\Extension - Recursive Methods\bin\Debug\net7.0\Extension - Recursive Methods.deps.json
+D:\Pratikler\Extension - Recursive Methods\bin\Debug\net7.0\Extension - Recursive Methods.runtimeconfig.json
+D:\Pratikler\Extension - Recursive Methods\bin\Debug\net7.0\Extension - Recursive Methods.dll
+D:\Pratikler\Extension - Recursive Methods\bin\Debug\net7.0\Extension - Recursive Methods.pdb
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.dll
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\refint\Extension - Recursive Methods.dll
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.pdb
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\Extension - Recursive Methods.genruntimeconfig.cache
+D:\Pratikler\Extension - Recursive Methods\obj\Debug\net7.0\ref\Extension - Recursive Methods.dll
