@@ -1,0 +1,14 @@
+D:\Pratikler\Methods\bin\Debug\net7.0\Methods.exe
+D:\Pratikler\Methods\bin\Debug\net7.0\Methods.deps.json
+D:\Pratikler\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+D:\Pratikler\Methods\bin\Debug\net7.0\Methods.dll
+D:\Pratikler\Methods\bin\Debug\net7.0\Methods.pdb
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.dll
+D:\Pratikler\Methods\obj\Debug\net7.0\refint\Methods.dll
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.pdb
+D:\Pratikler\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+D:\Pratikler\Methods\obj\Debug\net7.0\ref\Methods.dll
