@@ -1,0 +1,14 @@
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Pratikler\ArrayList\bin\Debug\net7.0\ArrayList.exe
+D:\Pratikler\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+D:\Pratikler\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+D:\Pratikler\ArrayList\bin\Debug\net7.0\ArrayList.dll
+D:\Pratikler\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.dll
+D:\Pratikler\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+D:\Pratikler\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll
