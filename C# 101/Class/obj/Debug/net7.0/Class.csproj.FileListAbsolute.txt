@@ -1,0 +1,14 @@
+D:\Pratikler\Class\bin\Debug\net7.0\Class.exe
+D:\Pratikler\Class\bin\Debug\net7.0\Class.deps.json
+D:\Pratikler\Class\bin\Debug\net7.0\Class.runtimeconfig.json
+D:\Pratikler\Class\bin\Debug\net7.0\Class.dll
+D:\Pratikler\Class\bin\Debug\net7.0\Class.pdb
+D:\Pratikler\Class\obj\Debug\net7.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Class\obj\Debug\net7.0\Class.AssemblyInfoInputs.cache
+D:\Pratikler\Class\obj\Debug\net7.0\Class.AssemblyInfo.cs
+D:\Pratikler\Class\obj\Debug\net7.0\Class.csproj.CoreCompileInputs.cache
+D:\Pratikler\Class\obj\Debug\net7.0\Class.dll
+D:\Pratikler\Class\obj\Debug\net7.0\refint\Class.dll
+D:\Pratikler\Class\obj\Debug\net7.0\Class.pdb
+D:\Pratikler\Class\obj\Debug\net7.0\Class.genruntimeconfig.cache
+D:\Pratikler\Class\obj\Debug\net7.0\ref\Class.dll
