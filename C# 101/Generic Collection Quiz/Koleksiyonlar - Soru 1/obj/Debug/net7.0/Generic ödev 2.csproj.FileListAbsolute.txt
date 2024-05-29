@@ -1,0 +1,14 @@
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.AssemblyInfoInputs.cache
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.AssemblyInfo.cs
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.csproj.CoreCompileInputs.cache
+D:\Pratikler\Generic ödev 2\bin\Debug\net7.0\Generic ödev 2.exe
+D:\Pratikler\Generic ödev 2\bin\Debug\net7.0\Generic ödev 2.deps.json
+D:\Pratikler\Generic ödev 2\bin\Debug\net7.0\Generic ödev 2.runtimeconfig.json
+D:\Pratikler\Generic ödev 2\bin\Debug\net7.0\Generic ödev 2.dll
+D:\Pratikler\Generic ödev 2\bin\Debug\net7.0\Generic ödev 2.pdb
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.dll
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\refint\Generic ödev 2.dll
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.pdb
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\Generic ödev 2.genruntimeconfig.cache
+D:\Pratikler\Generic ödev 2\obj\Debug\net7.0\ref\Generic ödev 2.dll
