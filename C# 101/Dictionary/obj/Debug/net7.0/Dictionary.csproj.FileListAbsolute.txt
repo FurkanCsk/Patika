@@ -1,0 +1,14 @@
+D:\Pratikler\Dictionary\bin\Debug\net7.0\Dictionary.exe
+D:\Pratikler\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+D:\Pratikler\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+D:\Pratikler\Dictionary\bin\Debug\net7.0\Dictionary.dll
+D:\Pratikler\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.dll
+D:\Pratikler\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+D:\Pratikler\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+D:\Pratikler\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
