@@ -1,0 +1,14 @@
+D:\Pratikler\Encapsulation ve Property\bin\Debug\net7.0\Encapsulation ve Property.exe
+D:\Pratikler\Encapsulation ve Property\bin\Debug\net7.0\Encapsulation ve Property.deps.json
+D:\Pratikler\Encapsulation ve Property\bin\Debug\net7.0\Encapsulation ve Property.runtimeconfig.json
+D:\Pratikler\Encapsulation ve Property\bin\Debug\net7.0\Encapsulation ve Property.dll
+D:\Pratikler\Encapsulation ve Property\bin\Debug\net7.0\Encapsulation ve Property.pdb
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.AssemblyInfoInputs.cache
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.AssemblyInfo.cs
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.csproj.CoreCompileInputs.cache
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.dll
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\refint\Encapsulation ve Property.dll
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.pdb
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\Encapsulation ve Property.genruntimeconfig.cache
+D:\Pratikler\Encapsulation ve Property\obj\Debug\net7.0\ref\Encapsulation ve Property.dll
