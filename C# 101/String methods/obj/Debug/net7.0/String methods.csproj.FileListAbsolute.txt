@@ -1,0 +1,14 @@
+D:\Pratikler\String methods\bin\Debug\net7.0\String methods.exe
+D:\Pratikler\String methods\bin\Debug\net7.0\String methods.deps.json
+D:\Pratikler\String methods\bin\Debug\net7.0\String methods.runtimeconfig.json
+D:\Pratikler\String methods\bin\Debug\net7.0\String methods.dll
+D:\Pratikler\String methods\bin\Debug\net7.0\String methods.pdb
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.AssemblyInfoInputs.cache
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.AssemblyInfo.cs
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.csproj.CoreCompileInputs.cache
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.dll
+D:\Pratikler\String methods\obj\Debug\net7.0\refint\String methods.dll
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.pdb
+D:\Pratikler\String methods\obj\Debug\net7.0\String methods.genruntimeconfig.cache
+D:\Pratikler\String methods\obj\Debug\net7.0\ref\String methods.dll
